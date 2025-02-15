@@ -1,17 +1,5 @@
 # Desafio Amigo Secreto
 
-## Índice
-
-[Descrição do Projeto](#descrição-do-projeto)
-
-[Status do Projeto](#status-do-projeto)
-
-[Funcionalidades](#funcionalidades)
-
-[Tecnologias utilizadas](#tecnologias-utilizadas)
-
-[Conclusão](#conclusão)
-
 ## 📑 Descrição do Projeto
 
   O prejeto trata-se da execução do desafio proposto no curso "Praticando Logica de programação: Challenge amigo secreto", que é parte da formação "Iniciante em Programação" do programa ONE, uma parceria Oracle e Alura.
